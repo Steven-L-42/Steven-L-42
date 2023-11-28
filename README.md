@@ -1,43 +1,23 @@
-<h2 align="left">Hi 👋! My name is Steven and I'm a student at 42 Heilbronn, Germany</h2>
+<h1 align="center">Hi 👋, I'm Steven and I'm a student at 42 Heilbronn</h1>
+<h3 align="center">A passionate developer from Germany, specializing in C, C++ and C#</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=steven-l-42&label=Profile%20views&color=0e75b6&style=flat" alt="steven-l-42" /> </p>
 
-<div align="right">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+- 🔭 I’m currently working on **cub3d**
 
-###
+- 🌱 I’m currently learning **Raycasting techniques and texturing in C and C++**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
+- 📫 How to reach me **slippert@student.42heilbronn.de**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/steven-lippert-840930246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/steven-lippert-840930246/" height="30" width="40" /></a>
+<a href="https://instagram.com/steven.lippert_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steven.lippert_official" height="30" width="40" /></a>
+</p>
 
-<br clear="both">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<img src="https://raw.githubusercontent.com/ShiiikK/ShiiikK/output/snake.svg" alt="Snake animation" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steven-l-42&show_icons=true&locale=en&layout=compact" alt="steven-l-42" /></p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShiiikK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ShiiikK&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M j[, Y]" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiiikK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ShiiikK/count.svg?"  />
-</div>
-
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steven-l-42&show_icons=true&locale=en" alt="steven-l-42" /></p>
