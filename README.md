@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Steven and I'm a student at 42 Heilbronn</h1>
 <h3 align="center">A passionate developer from Germany, specializing in C, C++ and C#</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=steven-l-42&label=Profile%20views&color=0e75b6&style=flat" alt="steven-l-42" /> </p>
+<br>
 
 - 🔭 I’m currently working on **cub3d**
 
 - 🌱 I’m currently learning **Raycasting techniques and texturing in C and C++**
 
+- 🐥 [42-Heilbronn](https://www.42heilbronn.de/de/) - intra: slippert
+
 - 📫 How to reach me **slippert@student.42heilbronn.de**
+  
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steven-l-42&show_icons=true&locale=en&layout=compact" alt="steven-l-42" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steven-l-42&show_icons=true&locale=en" alt="steven-l-42" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=steven-l-42&label=Profile%20views&color=0e75b6&style=flat" alt="steven-l-42" /> </p>
