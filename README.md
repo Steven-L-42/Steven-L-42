@@ -12,7 +12,7 @@
 - 📫 How to reach me **slippert@student.42heilbronn.de**
   
 <br>
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/slippert?1337Badge=off&UM6P=off" alt="slippert's 42 stats" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/steven-lippert-840930246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/steven-lippert-840930246/" height="30" width="40" /></a>
