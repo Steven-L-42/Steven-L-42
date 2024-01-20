@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **CPP Module 7**
+- 🔭 I’m currently working on **CPP Module 8**
 
 - 🌱 I’m currently exploring **the Versatility of STL for Enhanced C++ Programming**
 
