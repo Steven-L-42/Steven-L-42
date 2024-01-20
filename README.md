@@ -3,9 +3,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **cub3d**
+- 🔭 I’m currently working on **CPP Module 7**
 
-- 🌱 I’m currently learning **Raycasting techniques and texturing in C and C++**
+- 🌱 I’m currently learning **Exploring the Versatility of STL for Enhanced C++ Programming**
 
 - 🐥 [42-Heilbronn](https://www.42heilbronn.de/de/) - intra: slippert
 
