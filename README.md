@@ -3,9 +3,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **CPP Module 9**
+- 🔭 I’m currently working on an **Internet Relay Chat**
 
-- 🌱 I’m currently exploring **the Versatility of STL for Enhanced C++ Programming**
+- 🌱 I’m currently learning **network** programming and **protocol** implementation with **sockets**.
 
 - 🐥 [42-Heilbronn](https://www.42heilbronn.de/de/) - intra: slippert
 
