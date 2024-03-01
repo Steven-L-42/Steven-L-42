@@ -9,8 +9,10 @@
 
 - 🐥 [42-Heilbronn](https://www.42heilbronn.de/de/) - intra: slippert
 
-- 📫 How to reach me **slippert@student.42heilbronn.de**
+- 📫 E-Mail **slippert@student.42heilbronn.de**
   
+- 💼 Portfolio **[Portfolio](https://www.Steven-Lippert.me)**
+ 
 <br>
 <a href="https://profile.intra.42.fr/users/slippert"><img src="https://badge.mediaplus.ma/darkblue/slippert?1337Badge=off&UM6P=off" alt="slippert's 42 stats" /></a>
 <h3 align="left">Connect with me:</h3>
