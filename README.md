@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **network** programming and **protocol** implementation with **sockets**.
 
-- 🐥 [42-Heilbronn](https://www.42heilbronn.de/de/) - intra: slippert
+- 🐥 [42-Heilbronn Profile](https://www.42heilbronn.de/de/) - intra: slippert
 
-- 📫 E-Mail **slippert@student.42heilbronn.de**
+- 📫 **slippert@student.42heilbronn.de**
   
-- 💼 Portfolio **[Portfolio](https://www.Steven-Lippert.me)**
+- 💼 **[www.steven-lippert.me](https://www.Steven-Lippert.me)**
  
 <br>
 <a href="https://profile.intra.42.fr/users/slippert"><img src="https://badge.mediaplus.ma/darkblue/slippert?1337Badge=off&UM6P=off" alt="slippert's 42 stats" /></a>
