@@ -3,13 +3,13 @@
 
 <br>
 
-- 🔭 I’m currently working on a **HackUI** for *WPF* Applications.
+- 🔭 I’m currently working on a <a style="text-decoration: none;" href="https://github.com/Steven-L-42/HackUI-WPF">**HackUI**</a> for *WPF* Applications.
 
 - 🌱 I'm currently learning to design and create **custom controls** in WPF with *C#* and *XAML*.
 
-- 🐥 [42-Heilbronn Profile](https://www.42heilbronn.de/de/) - intra: slippert
+- 🐥 [**42-Heilbronn Profile**](https://www.42heilbronn.de/de/) - intra: slippert
 
-- 📫 **slippert@student.42heilbronn.de**
+- 📫 <a href="mailto:slippert@student.42heilbronn.de">**slippert@student.42heilbronn.de**</a>
   
 - 💼 **[www.steven-lippert.me](https://www.Steven-Lippert.me)**
  
