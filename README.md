@@ -3,9 +3,9 @@
 
 <br>
 
-- 🔭 I’m currently working on an **Internet Relay Chat**
+- 🔭 I’m currently working on a **HackUI** for *WPF* Applications.
 
-- 🌱 I’m currently learning **network** programming and **protocol** implementation with **sockets**.
+- 🌱 I'm currently learning to design and create **custom controls** in WPF with *C#* and *XAML*.
 
 - 🐥 [42-Heilbronn Profile](https://www.42heilbronn.de/de/) - intra: slippert
 
